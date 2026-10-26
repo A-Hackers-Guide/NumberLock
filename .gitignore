@@ -1,0 +1,10 @@
+# Build output
+/target
+/pkg
+/pkg-cache
+/releases-native
+
+# Private: the encryption, password hashing and number-conversion code is not published.
+/src/core.rs
+
+.DS_Store
