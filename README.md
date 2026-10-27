@@ -40,12 +40,12 @@ A wrong password, or a single changed digit, is detected and refused.
 
 ### Good to know
 
-- The numbers are compressed first, but writing data as digits makes it bigger than the compressed data — expect a `.txt` roughly 2× the size of a zipped copy. Small things fit in a text message; large apps are better sent as an attachment.
+- The numbers are compressed first, but writing data as digits makes it bigger than the compressed data — expect a `.txt` roughly 2× the size of a zipped copy. For example, at the other corrupted looking repo, we have files made with this program, with weird filenames, contents, and the whole repo is build around just those files. I dare you to try and get the encrypted and decrypted files from there! Small things fit in a text message; large apps are better sent as an attachment.
 - Locked `.txt` files work on every platform: lock on a Mac, unlock on Windows or Linux.
 
 ## Source code
 
-The app is written in Rust with [egui](https://github.com/emilk/egui) for the interface and [rfd](https://github.com/PolyMeilex/rfd) for native file dialogs.
+The app is written in Rust with [egui](https://github.com/emilk/egui) for the interface, another repository for console files using this program, and [rfd](https://github.com/PolyMeilex/rfd) for native file dialogs.
 
 | Path | What it is |
 |---|---|
