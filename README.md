@@ -1,3 +1,5 @@
+[![Download NumberLock](https://img.shields.io/sourceforge/dt/numberlock.svg?label=SourceForge%20downloads)](https://sourceforge.net/projects/numberlock/files/latest/download) [![Download NumberLock](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/numberlock/files/latest/download)
+
 <p align="center"><img src="assets/icon-256.png" width="128" alt="NumberLock icon"></p>
 
 <h1 align="center">NumberLock</h1>
